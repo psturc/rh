@@ -16,5 +16,5 @@
     "rhmap"
   ],
   "author": "Pavel Sturc <psturc@redhat.com>",
-  "license": "ISC"
+  "license": "Apache-2.0s"
 }
